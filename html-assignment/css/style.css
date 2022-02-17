@@ -1,3 +1,15 @@
 head, body {
-    font-family: Arial;   
+    font-family: Arial;  
+}
+body {
+    font-size: 20px
+}
+body{
+    background-color: lightslategray;
+}
+header, footer {
+    background-color: red;
+}
+ul {
+    list-style-type: square;
 }
